@@ -1,0 +1,6 @@
+@AuthWithRolesAPI_HostAddress = http://localhost:5208
+
+GET {{AuthWithRolesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
